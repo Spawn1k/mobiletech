@@ -1,1 +1,0 @@
-# mobiletech
