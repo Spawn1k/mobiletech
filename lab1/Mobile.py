@@ -24,4 +24,6 @@ kself = 2
 kpas = 0
 ksms = 1
 bill = tarification(self, pas, kself, kpas, ksms)
-print(bill)
+f = open('schet.txt', 'w')
+f.write(str(bill))
+f.close()
