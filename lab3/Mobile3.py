@@ -15,3 +15,4 @@ context = {'number': '231', 'date': '07.04.2020', 'bank': 'Настоящий Б
 doc.render(context)
 doc.save('template-final.docx')
 os.system('abiword --to=pdf template-final.docx 2>/dev/null')
+os.system('rm template-final.docx')

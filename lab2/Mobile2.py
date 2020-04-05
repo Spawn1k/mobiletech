@@ -7,6 +7,7 @@ os.system("nfdump -r track > file")
 f = open('file', 'r')
 d = f.read().splitlines()
 f.close()
+os.system('rm file')
 size = 0
 mas = []
 ox = []

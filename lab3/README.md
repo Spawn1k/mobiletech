@@ -10,3 +10,5 @@ installed abiword program (sudo apt-get install abiword)
 
 Result:
 file template-final.pdf with all neccessary information in it
+
+IMPORTANT NOTE: do not try to open pdf file with abiword, it will be showed in incorrect way, use pre-installed Document Viewer
