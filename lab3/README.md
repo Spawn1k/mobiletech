@@ -2,6 +2,9 @@
 Launch:
 python3 Mobile3.py
 
+Input files:
+file template.docx with template
+
 Dependencies:
 all modules from previous programs;
 installed docxtpl module (pip3 install docxtpl)

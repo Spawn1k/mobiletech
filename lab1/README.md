@@ -3,6 +3,9 @@
 Launch:
 python3 Mobile.py
 
+Input files:
+data.csv
+
 Dependecies:
 pre-installed standard python-csv module
 

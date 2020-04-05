@@ -3,6 +3,10 @@
 Launch:
 python3 Mobile2.py
 
+
+Input files:
+file track with NetFlow data
+
 Dependencies:
 pre-installed standard os module; 
 installed matplotlib module lastest v (pip3 install matplotlib, pip3 install -U matplotlib); 
